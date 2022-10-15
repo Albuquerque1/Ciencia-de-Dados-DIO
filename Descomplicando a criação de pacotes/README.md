@@ -1,19 +1,19 @@
 # numerico
 
-Description. 
-The package numerico is used to:
-	real
-		- raiz 
-		- modulo
-		- potencia
-		- formata
-	complexo
-		- modulo
-		- fase
-		- parte_real
-		- parte_imaginaria
-		- rad_para_grau
-		- polar
+**Description**. <br> 
+The package numerico is used to:<br>
+	real<br>
+		- raiz <br> 
+		- modulo <br>
+		- potencia <br>
+		- formata <br>
+	complexo <br>
+		- modulo <br>
+		- fase <br>
+		- parte_real <br>
+		- parte_imaginaria <br>
+		- rad_para_grau <br>
+		- polar <br>
 
 ## Installation
 
